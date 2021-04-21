@@ -1,0 +1,1 @@
+{"workclass": {"embedding_weights": "dnn/input_from_feature_columns/input_layer/workclass_embedding/embedding_weights", "new_shape": [3, 8]}, "occupation": {"embedding_weights": "dnn/input_from_feature_columns/input_layer/occupation_embedding/embedding_weights", "new_shape": [6, 8]}}
